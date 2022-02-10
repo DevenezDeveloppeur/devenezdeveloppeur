@@ -1,0 +1,52 @@
+.cssmenujs{
+    background-color: #F8F8F8;
+    border-color: #E7E7E7;
+   
+}
+
+.cssmenujs a{
+    color:#636261;
+}
+
+.cssmenujs a:hover,.cssmenujs a:visited{
+    color:#34495E;
+    font-size: 1.5em;
+}
+
+@font-face {
+    font-family:Quintessential ;
+    src: url(./fonts/Quintessential-Regular.ttf);
+}
+@font-face {
+    font-family:DancingScript ;
+    src: url(./fonts/DancingScript-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family:OpenSansCondensed ;
+    src: url(./fonts/OpenSansCondensed-Light.ttf);
+}
+
+.span_terme{
+    font-family:Quintessential;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.content h1{
+    font-family: DancingScript;
+    background-color: #E5E7E9;
+}
+.content{
+    font-family:OpenSansCondensed ;
+    font-size:1.2em;
+}
+
+.content h2{
+    font-weight: 1.5em;
+}
+
+label,footer h3{
+   color: #E5E7E9;
+}
+
+
